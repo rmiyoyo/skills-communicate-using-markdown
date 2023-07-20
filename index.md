@@ -20,3 +20,7 @@ class Stack {
   }
 }
 ```
+# Things To Do
+- [ ] Finish Github Skills
+- [ ] Start contributing to Open Source projects
+- [ ] Finish up the Bookstore
